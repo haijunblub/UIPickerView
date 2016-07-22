@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1B180CA75AEACB8FB12B9497DAAE2FB7BE0011DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1B180CA75AEACB8FB12B9497DAAE2FB7BE0011DE" : 0,
+    "1D577A76B2EE5C2FF420BF3788C16BB69E2D972D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D70A804D-2D1F-49D4-8205-564408BE8539",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1B180CA75AEACB8FB12B9497DAAE2FB7BE0011DE" : "UIPickerView\/",
+    "1D577A76B2EE5C2FF420BF3788C16BB69E2D972D" : "UIPickerView\/CityPickerView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CityPickerView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CityPickerView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haijunblub\/UIPickerView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B180CA75AEACB8FB12B9497DAAE2FB7BE0011DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wanghaijun01\/CityPickerView1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D577A76B2EE5C2FF420BF3788C16BB69E2D972D"
+    }
+  ]
+}
